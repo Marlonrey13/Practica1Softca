@@ -19,3 +19,8 @@
 * git push origin --tags
 * git checkout -b v0.2
 * touch 2.txt
+* git add .
+* git commit -m 'v0.2'
+* git push origin v0.2
+* git checkout main
+* git merge v0.2
