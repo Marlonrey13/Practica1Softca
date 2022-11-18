@@ -24,3 +24,12 @@
 * git push origin v0.2
 * git checkout main
 * git merge v0.2
+* git commit -am 'Hola'
+* git log --oneline
+* git checkout v0.2
+* git status
+* git commit -am 'Adios'
+* git checkout main
+* git merge v0.2
+* git branch --merged
+* git branch --no-merged
