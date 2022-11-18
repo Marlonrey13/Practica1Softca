@@ -11,3 +11,11 @@
 * mkdir privada
 * touch .gitignore
 * touch 1.txt
+* git add .
+* git commit -m 'v0.1'
+* git tag -a v0.1 -m 'Primer tag'
+* git tag
+* git push origin
+* git push origin --tags
+* git checkout -b v0.2
+* touch 2.txt
